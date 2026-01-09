@@ -4,8 +4,8 @@ pipeline {
     environment {
         // AWS RDS එක හැදුවාම ලැබෙන විස්තර මෙතනට දාන්න
         DB_USER = 'fastapi_user'
-        DB_PASSWORD = 'fastapi123'
-        DB_HOST = 'ඔබේ-rds-endpoint.aws.com'
+        DB_PASSWORD = 'vomcoG-tanhok-6dahpa'
+        DB_HOST = 'fastapi-mysql.c5wqwe2owyku.eu-north-1.rds.amazonaws.com'
         DB_NAME = 'user_management'
     }
 
